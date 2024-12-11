@@ -1,0 +1,30 @@
+Brand,Model,Year,Mileage,Fuel_Type,Fuel ,Horsepower,Transmission,Price ,City
+Audi,Q7,2006,260886,Diesel,9.5,213,Automatic,12063.27,Cologne
+Opel,Corsa,2015,72505,Hybrid,6.5,335,Automatic,33890.58,Berlin
+Mercedes,C-Class,2007,125356,Electric,9.9,445,Automatic,92639.12,Berlin
+Volkswagen,Polo,2009,130867,Electric,4.1,165,Automatic,88003.5,Munich
+Opel,Astra,2022,57482,Electric,5.2,145,Manual,26028.97,Hamburg
+Volkswagen,Tiguan,2011,107269,Electric,10.1,449,Automatic,15308.15,Berlin
+BMW,X3,2012,121481,Petrol,10.8,456,Automatic,44140.68,Hamburg
+BMW,5 Series,2012,251434,Petrol,11.6,368,Automatic,5986.91,Hamburg
+Porsche,Panamera,2018,157502,Electric,8.6,101,Manual,21694.91,Frankfurt
+BMW,3 Series,2022,25732,Electric,10.5,270,Manual,58172.74,Frankfurt
+Mercedes,E-Class,2008,264196,Diesel,6.6,437,Manual,96926.17,Frankfurt
+Volkswagen,Passat,2019,69449,Electric,7.5,137,Manual,21897.61,Cologne
+BMW,5 Series,2012,295610,Petrol,11.4,231,Automatic,12182.03,Berlin
+Volkswagen,Golf,2013,97941,Electric,9.9,333,Automatic,15725.01,Hamburg
+Opel,Corsa,2005,235306,Hybrid,10,74,Automatic,53162.29,Munich
+Audi,A3,2011,86129,Diesel,7.1,78,Automatic,5581.21,Frankfurt
+Volkswagen,Golf,2012,274728,Electric,11.1,454,Automatic,65411.9,Munich
+Volkswagen,Golf,2005,35558,Hybrid,7.6,111,Automatic,21605.04,Frankfurt
+Audi,Q5,2010,292415,Diesel,12,451,Manual,38185.54,Hamburg
+Porsche,Panamera,2012,25451,Petrol,9.5,215,Automatic,94527.1,Munich
+Opel,Insignia,2022,180520,Diesel,10.9,125,Automatic,96681.76,Hamburg
+Mercedes,GLA,2022,103349,Petrol,5.4,331,Manual,29456.24,Hamburg
+Opel,Insignia,2009,119078,Diesel,3.5,76,Manual,79954.02,Cologne
+Mercedes,GLE,2018,53607,Hybrid,7.6,171,Automatic,97407.64,Cologne
+Mercedes,GLA,2022,288215,Petrol,9.9,327,Automatic,18350.07,Hamburg
+Audi,A3,2015,59165,Hybrid,6.6,157,Automatic,40829.05,Cologne
+Volkswagen,Tiguan,2021,155962,Diesel,7.5,251,Automatic,12431.02,Hamburg
+Opel,Astra,2016,65845,Petrol,5.1,466,Automatic,80090.82,Hamburg
+Mercedes,E-Class,2019,294184,Hybrid,7.9,110,Manual,17642.96,Munich

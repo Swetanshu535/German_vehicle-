@@ -1,0 +1,41 @@
+create database german_cars;
+use german_cars;
+
+select * from german_vehicle;
+
+-- show the toal price for the the diseal vehicles
+select round(sum(price)) as total_price
+from german_vehicle
+where fuel_type= "Diesel";
+-- show the average of the horse power for EV
+select ceil(avg(Horsepower))
+from german_vehicle
+where fuel_type= "Electric";
+-- For BMW show the fuel consumption 
+select brand,Fuel
+from german_vehicle
+where brand= "BMW";
+-- Count the toal mileage for mercedes 
+select brand, round(sum(Mileage))
+from german_vehicle
+where brand="mercedes";
+
+-- For manual transmission show the total mileage 
+select Transmission, round(sum(Mileage)) as total_mileage
+from german_vehicle
+where Transmission= "Manual"
+Group by Transmission;
+
+-- Concat the brand and the city 
+select concat (Brand," ", city) as car_location
+from german_vehicle;
+
+-- Count the total horse power cars more than 200
+select count(horsepower) as total_horse_power
+from german_vehicle 
+where Horsepower > 200;
+
+-- Show the max price and show the car and its fuel type
+select Model,Fuel_type,floor(Max(Price)) as maximum_price
+from german_vehicle
+group by model,fuel_type;
